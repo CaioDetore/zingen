@@ -1,4 +1,6 @@
 @import url(global.css);
+
+@import url(hero.css);
 @import url(button.css);
 @import url(social.css);
 @import url(header.css);
