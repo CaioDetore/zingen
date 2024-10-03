@@ -16,7 +16,6 @@
 
 .container {
   --max-width: 375px;
-  border: 1px solid;
   margin: 0 auto;
   width: min(var(--max-width), 100% - var(--px-lg) * 2);
 }
@@ -34,9 +33,19 @@
   display: flex;
 }
 
+
+.align-center {
+  align-items: center;
+}
+
 .gap-1 {
   gap: 1rem;
 }
+
+.gap-1\.5 {
+  gap: 1.5rem;
+}
+
 
 .grid {
   display: grid;
