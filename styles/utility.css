@@ -6,6 +6,10 @@
   padding-block: var(--py-lg);
 }
 
+.py-lg {
+  padding-inline: var(--py-lg);
+}
+
 .py-xl {
   padding-block: var(--py-xl);
 }
